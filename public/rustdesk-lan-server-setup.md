@@ -1,14 +1,14 @@
 ---
 title: 【RustDesk】Mac上にDocker Composeで自前サーバを構築し、LAN内でリモートデスクトップ環境を作る
 tags:
-  - Docker
   - Mac
-  - RustDesk
-  - リモートデスクトップ
+  - Docker
   - docker-compose
+  - リモートデスクトップ
+  - rustdesk
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-09T14:13:34+09:00'
+id: 5eebcedcc2f8473ed7b2
 organization_url_name: null
 slide: false
 ignorePublish: false

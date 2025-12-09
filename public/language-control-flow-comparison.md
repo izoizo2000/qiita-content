@@ -1,14 +1,14 @@
 ---
 title: 【7言語比較】if文・for文の書き方と真偽値の違いで学ぶプログラミング言語の個性
 tags:
+  - Java
+  - Go
+  - C#
   - プログラミング言語
   - 制御構文
-  - C#
-  - Go
-  - Java
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-09T14:13:33+09:00'
+id: d4161e45524636038d64
 organization_url_name: null
 slide: false
 ignorePublish: false
