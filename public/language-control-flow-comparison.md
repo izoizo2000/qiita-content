@@ -6,10 +6,6 @@ tags:
   - C#
   - Go
   - Java
-  - TypeScript
-  - Ruby
-  - Rust
-  - Python
 private: false
 updated_at: ''
 id: null
