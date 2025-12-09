@@ -1,13 +1,13 @@
 ---
 title: 【Go】レガシーなGo(1.16未満)環境を壊さずに新しいGo(1.21)を共存させる方法
 tags:
-  - Windows
   - Go
-  - GitBash
+  - Windows
   - バージョン管理
+  - gitbash
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-02T09:26:27+09:00'
+id: 0ff41d596ee947762bac
 organization_url_name: null
 slide: false
 ignorePublish: false
