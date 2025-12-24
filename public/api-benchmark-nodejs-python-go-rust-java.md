@@ -1,14 +1,14 @@
 ---
 title: 【検証】Node.js vs Python vs Go vs Rust vs Java - Docker環境でAPI性能を徹底比較
 tags:
-  - Node.js
+  - Java
   - Python
   - Go
+  - Node.js
   - Rust
-  - Java
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-24T14:27:02+09:00'
+id: 9b092e75196ae3dd754f
 organization_url_name: null
 slide: false
 ignorePublish: false
