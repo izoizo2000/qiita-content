@@ -1,13 +1,13 @@
 ---
 title: Vercelでポートフォリオサイトを公開する方法
 tags:
+  - デプロイ
+  - ポートフォリオ
   - Next.js
   - Vercel
-  - ポートフォリオ
-  - デプロイ
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-01-22T13:08:33+09:00'
+id: 421925a56ddce7a7e85a
 organization_url_name: null
 slide: false
 ignorePublish: false
